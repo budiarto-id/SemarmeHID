@@ -1,6 +1,11 @@
-
-//Programmed by: Arif Budiarto (semarme.com)
-
+/* Name: main.h
+ * Project: SemarmeHID
+ * Author: Arif Budiarto
+ * Creation Date: 2015-11-04
+ * Copyright: (c) 2015 by Arif Budiarto (semarme.com)
+ * License: GNU GPL v2 (see License.txt)
+ */
+ 
 #include <avr/io.h>
 #include <avr/wdt.h>         // for wdt routines
 #include <avr/interrupt.h>   // for sei() 
