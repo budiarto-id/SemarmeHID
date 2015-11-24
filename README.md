@@ -8,3 +8,6 @@ USB HID IO with AVR Microcontroller
 ### Feature
 1. 8 bits input
 2. 8 bits ouput
+
+### Buy
+Buy at [tokopedia.com](https://www.tokopedia.com/semarme/)
