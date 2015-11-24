@@ -11,3 +11,7 @@ USB HID IO with AVR Microcontroller
 
 ### Buy
 Buy at [tokopedia.com](https://www.tokopedia.com/semarme/)
+
+### Link
+[semarme.com](https://www.semarme.com/)
+[facebook](http://www.facebook.com/semarmedia/)
